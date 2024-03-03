@@ -60,4 +60,3 @@ This Python script helps you compare product prices across multiple retailers, w
 * Implement a command-line interface (CLI) for easier user interaction.
 * Add email or notification features to alert users when prices change.
 
-**Let me know if you'd like assistance with any of these potential improvements!** 
