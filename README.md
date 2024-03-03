@@ -1,5 +1,5 @@
 
-**Product Comparison Tool**
+# Product Comparison Tool
 
 This Python script helps you compare product prices across multiple retailers, with a focus on Canadian e-commerce websites.
 
