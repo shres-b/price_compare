@@ -44,6 +44,11 @@ This Python script helps you compare product prices across multiple retailers, w
   ```
 * A CSV file named `product_comparison_report.csv` will be generated, containing retailer names, product descriptions, and prices in a structured format.
 
+4. **Unit tests:**
+    ```bash 
+    poetry run pytest
+    ```
+
 **Notes**
 
 * Website structures can change, potentially breaking the price scraping logic. You might need to periodically update the selectors in the `track_product_price` function.
